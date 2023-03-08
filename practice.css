@@ -1,0 +1,38 @@
+.counting_number{
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.increament{
+    border-radius: 50%;
+    border: 15px solid ;
+    height: 100px;
+    width: 100px;
+    border-color: skyblue;
+    text-align: center;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.increase {
+    font-size: 25px;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.decrease{
+    border-color: rgba(255, 0, 0, 0.55);
+}
+
+.reset{
+    border-color: rgba(0, 0, 0, 0.505);
+}
+
