@@ -1,0 +1,43 @@
+.card-section{
+width: 450px;
+height: 70vh;
+border: 2px solid black;
+padding: 10px;
+margin: 0 auto;
+border-radius: 20px;
+
+
+}
+
+.profile_picture{
+    width: 180px;
+    height: 180px;
+    border: 10px solid rgba(64, 68, 195, 0.735);
+    border-radius: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.number_follower{
+    width: 300px;
+    height: 50px;
+    margin:0 auto;
+
+    display: flex;
+    align-items: center;
+}
+
+.follow-button{
+    height:70px ;
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+}
